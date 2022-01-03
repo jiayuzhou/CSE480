@@ -2,10 +2,10 @@
 
 ## Table of Contents
 1. [General Information](#general-information)
-2. [Syllabus](#syllabus)
-3. [Schedule](#schedule)
-4. [Piazza Forum](https://piazza.com/msu/spring2022/cse480/home)
-5. [Classroom Platform Access](#classroom-platform-access)
+2. [Schedule](#schedule)
+3. [Piazza Forum](https://piazza.com/msu/spring2022/cse480/home)
+4. [Classroom Platform Access](#classroom-platform-access)
+5. [Syllabus](#syllabus)
 6. [Helpful Links](#helpful-links)
 
 
@@ -31,7 +31,20 @@ You can send private messages or public posts depending on your preference.
 Emails may not be responded to.
 
 ## Schedule
+TBA
 
+## Classroom Platform Access 
+
+This class uses Mimir. Note that since Mimir is terminating its support, we may transit to 
+another platform along the way. All updates will be available in Piazza. 
+
+### Accessing the CSE 480 Mimir classroom
+Mimir is setup to use single sign on from D2L. To establish your mimir access please use the following steps:
+
+1. Login to [D2L](https://d2l.msu.edu)
+2. Go to the CSE 480 classroom in D2L
+3. On the main CSE 480 D2L Classroom page there is a section for "External Links". Expand that section.
+4. Click the mimir link. This will take you to mimir and establish your access to the CSE 480 mimir classroom
 
 ## Syllabus 
 ### Course Description 
@@ -179,16 +192,16 @@ the students, so feedback is always appreciated.
 
 ## Helpful Links
 
+### SQL Queries
+* [SQL As Understood By SQLite](https://sqlite.org/lang.html)
+* [SQL Fiddle (a nice website to run SQL queries on)](http://sqlfiddle.com/)
 
-## Classroom Platform Access 
+### Python and SQLite
+* [Python 3 Docs](https://docs.python.org/3/library/sqlite3.html)
 
-This class uses Mimir. Note that since Mimir is terminating its support, we may transit to 
-another platform along the way. All updates will be available in Piazza. 
+### Example Database
+* Chinook Database 
+  ([link to diagram](https://www.cse.msu.edu/~cse480/img/ChinookDatabaseSchema.png)) 
+  ([link to dataset](https://github.com/lerocha/chinook-database/blob/master/ChinookDatabase/DataSources/Chinook_Sqlite.sql))
 
-### Accessing the CSE 480 Mimir classroom
-Mimir is setup to use single sign on from D2L. To establish your mimir access please use the following steps:
 
-1. Login to [D2L](https://d2l.msu.edu)
-2. Go to the CSE 480 classroom in D2L
-3. On the main CSE 480 D2L Classroom page there is a section for "External Links". Expand that section.
-4. Click the mimir link. This will take you to mimir and establish your access to the CSE 480 mimir classroom
