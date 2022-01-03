@@ -11,6 +11,27 @@
 
 ## General Information
 
+| Week, Date | Content | Links | Homework (10pm at dates) |
+| ----       | ------- | ----- | ----- | 
+| 1 (Jan 10) | Course Overview, Schemas and File Formats | [Video](#) [Slide](#) | HW#0 due Sat. (01-15).<br /> _HW#0 not worth any points_ |
+| 2 (Jan 17) | Basic SQL (Create, Insert, Select) | [Video](#) [Slide](#) | HW#1 due Thu. (01-20).<br /> HW#2 released (01-20). |
+| 3 (Jan 24) | Filters, Constraints and Joins | [Video](#) [Slide](#) | HW#2 due Thu. (01-27).<br /> HW#3 released (01-27) | 
+| 4 (Jan 31) | Update, Delete, Union, Dates and Times, Foreign Keys, and Checks | [Video](#) [Slide](#) | HW#3 due Thu. (02-03).<br /> HW#4 released (02-03) | 
+| 5 (Feb 07) | Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters | [Video](#) [Slide](#) | HW#4 due Thu. (02-10).<br /> HW#5 released (02-10) | 
+| 6 (Feb 14) | Transations and Schedules | [Video](#) [Slide](#) | HW#5 due Thu. (02-17).<br /> HW#6 released (02-17) | 
+| 7 (Feb 21) | Locks and Rollbacks | [Video](#) [Slide](#) | HW#6 due Thu. (02-24).<br /> HW#7 released (02-24) | 
+| 8 (Feb 28) | Optimistic Scheduling | [Video](#) [Slide](#) | HW#7 due Thu. (03-03).<br /> HW#8 released (03-03) | 
+| 9 (Mar 07) | Spring Break [ No Class] | [Video](#) [Slide](#) | No HW Due This Week | 
+| 10 (Mar 14) | Entity-Relationship Diagrams | [Video](#) [Slide](#) | HW#8 due Thu. (03-17).<br /> HW#9 released (03-17) | 
+| 11 (Mar 21) | Normal Forms (To Appear) | [Video](#) [Slide](#) | HW#9 due Thu. (03-24). | 
+| 12 (Mar 28) | Exam Details | 
+| 13 (Apr 04) | Indices, B+ Trees, Hashtables, and Bitmaps | [Video](#) [Slide](#) | HW#10 released (04-07) | 
+| 14 (Apr 11) | Distributed Databases, Distributed Transactions, and RAID | [Video](#) [Slide](#) | HW#10 due Thu. (04-14).<br /> HW#11 released (04-14) | 
+| 15 (Apr 18) | NOSQL Overview, MongoDB, other NoSQL Databases | [Video](#) [Slide](#) | HW#11 due Thu. (04-21).<br /> HW#12 released (04-21) | 
+| 16 (Apr 25) | Big Data, Hadoop, Security, and Authorization | [Video](#) [Slide](#) | HW#12 due Thu. (04-28).<br /> HW#13 released (04-28) | 
+| 17 (May 02) | Finals Week. No Content | [Video](#) [Slide](#) | HW#13 due Thu. (05-05).<br /> No Final Exam | 
+
+
 ### Course Description
 Storage of and access to physical databases including indexing, hashing, and range accesses. 
 Relational data models, database design principles, query languages, query optimization, 
