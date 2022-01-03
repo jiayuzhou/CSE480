@@ -5,7 +5,7 @@
 2. [Syllabus](#syllabus)
 3. [Schedule](#schedule)
 4. [Piazza Forum](https://piazza.com/msu/spring2022/cse480/home)
-5. [Mimir classroom access](#)
+5. [Classroom Platform Access](#classroom-platform-access)
 6. [Helpful Links](#helpful-links)
 
 
@@ -139,7 +139,7 @@ for receiving a final grade of 0.0. Examples of academic dishonesty include (but
 * Using assignment solutions provided to a previous iteration of this course.
 * Providing false information to the instructor about matters related to the course.
 * Facilitating another student in any of these activities.
-* See [Academic Dishonesty and Attribution](https://www.cse.msu.edu/~cse480/academic_dishonesty.php) for more details.
+* See [Academic Dishonesty and Attribution](https://github.com/jiayuzhou/CSE480/blob/main/course_info/dishonesty_cases.md) for more details.
 
 ### Grief Absence Policy
 If their occur unfortunate circumstances that would lead you to have unexpected absences, 
@@ -178,3 +178,17 @@ keep the class flexible to the learning styles that seem to work best for
 the students, so feedback is always appreciated.
 
 ## Helpful Links
+
+
+## Classroom Platform Access 
+
+This class uses Mimir. Note that since Mimir is terminating its support, we may transit to 
+another platform along the way. All updates will be available in Piazza. 
+
+### Accessing the CSE 480 Mimir classroom
+Mimir is setup to use single sign on from D2L. To establish your mimir access please use the following steps:
+
+1. Login to [D2L](https://d2l.msu.edu)
+2. Go to the CSE 480 classroom in D2L
+3. On the main CSE 480 D2L Classroom page there is a section for "External Links". Expand that section.
+4. Click the mimir link. This will take you to mimir and establish your access to the CSE 480 mimir classroom
