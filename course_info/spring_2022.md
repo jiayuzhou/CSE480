@@ -24,7 +24,13 @@ transaction processing and recovery techniques. Object-oriented and distributed 
   and helped in the order you arrived. If there are many students it may take some 
   time before it is your turn (especially on days assignments are due). Please 
   consider posing your question on Piazza if able.
-* Helproom Hours: TBA 
+* Helproom Hours:
+  * Monday: Gabe, TBD
+  * Tuesday: Yaxin, 4-6 pm. 
+  * Wednesday: Gabe, TBD
+  * Thursday: Jinghan, TBD
+  * Friday: Jinghan, TBD
+  * Saturday: Yaxin, 4-6 pm. 
 
 **Note**: **ALL** written communication should be directed though Piazza. 
 You can send private messages or public posts depending on your preference. 
@@ -56,16 +62,9 @@ Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`.
 
 ## Classroom Platform Access 
 
-This class uses Mimir. Note that since Mimir is terminating its support, we may transit to 
-another platform along the way. All updates will be available in Piazza. 
-
-### Accessing the CSE 480 Mimir classroom
-Mimir is setup to use single sign on from D2L. To establish your mimir access please use the following steps:
-
-1. Login to [D2L](https://d2l.msu.edu)
-2. Go to the CSE 480 classroom in D2L
-3. On the main CSE 480 D2L Classroom page there is a section for "External Links". Expand that section.
-4. Click the mimir link. This will take you to mimir and establish your access to the CSE 480 mimir classroom
+Since Mimir is terminating its support, we will be moving to a new platform Codio, 
+and you will need to pay for $36 for the access, upon the registration. 
+You will access the Codio assessments inside D2L. 
 
 ## Syllabus 
 ### Course Description 
@@ -98,21 +97,17 @@ To be eligible to earn a non-zero grade in the course, a student normally must d
 
 ### Course Platforms 
 
-This course will use the Mimir system to deliver all homework assignments. 
+This course will use the Codio system to deliver all homework assignments. 
 Grades for homework assignments can be found in that system. Weekly videos 
 stored in MSU's MediaSpace will be linked to this course website and are 
-found in the [Schedule](#schedule) section.
-
-Note: _Since Mimir is shutting down soon_, we are transitioning to another platform 
-and we are still evaluating the capabilities of different platforms. We may 
-switch to a different platform for later assignments. 
+found in the Content section in [D2L](https://d2l.msu.edu/).
 
 The exam which will be given approximately 2/3rds through the course will be delivered 
 using the CSE Handin system (tentatively). Students will be monitored while taking the exam using zoom.
 
 ### Homeworks
 
-There will be at least 13 weekly homeworks (currently through Mimir). 
+There will be at least 13 weekly homeworks (currently through Codio). 
 The homeworks are intended to be straightforward if you have viewed the lectures. 
 Only your top 10 homework scores will count toward your final grade; all others 
 will be dropped. The counted scores will each be worth 700 points for a total of 
