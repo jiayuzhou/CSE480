@@ -16,6 +16,11 @@ Storage of and access to physical databases including indexing, hashing, and ran
 Relational data models, database design principles, query languages, query optimization, 
 transaction processing and recovery techniques. Object-oriented and distributed databases.
 
+**Format**: This is a fully online course: course materials (videos, slides, links) are released in 
+[D2L](https://d2l.msu.edu/) according to the [schedule](#schedule), 
+discussions are in [Piazza](https://www.piazza.com/msu/spring2022/cse480), 
+helprooms (QA sessions with teaching assistants/TAs) are in Zoom (see hours below). 
+
 ### Instructors and Office Hours
 * Instructor: Dr. Jiayu Zhou
 * TAs: Jinghan, Yaxin, Gabe
