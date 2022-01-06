@@ -20,6 +20,7 @@ transaction processing and recovery techniques. Object-oriented and distributed 
 [D2L](https://d2l.msu.edu/) according to the [schedule](#schedule), 
 discussions are in [Piazza](https://www.piazza.com/msu/spring2022/cse480), 
 helprooms (QA sessions with teaching assistants/TAs) are in Zoom (see hours below). 
+Assignments will be done in the Codio platform [access in D2L].
 
 ### Instructors and Office Hours
 * Instructor: Dr. Jiayu Zhou
@@ -68,7 +69,7 @@ Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`.
 ## Classroom Platform Access 
 
 Since Mimir is terminating its support, we will be moving to a new platform Codio, 
-and you will need to pay for $36 for the access, upon the registration. 
+and you will need to pay for $48 for the access, upon the registration. 
 You will access the Codio assessments inside D2L. 
 
 ## Syllabus 
