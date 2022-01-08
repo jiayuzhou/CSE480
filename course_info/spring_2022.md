@@ -20,7 +20,8 @@ transaction processing and recovery techniques. Object-oriented and distributed 
 [D2L](https://d2l.msu.edu/) according to the [schedule](#schedule), 
 discussions are in [Piazza](https://www.piazza.com/msu/spring2022/cse480), 
 helprooms (QA sessions with teaching assistants/TAs) are in Zoom (see hours below). 
-Assignments will be done in the Codio platform [access in D2L].
+All assignments will be done in the Codio platform [access in D2L]. To use Codio, you will be paying 
+a registration fee of $48. 
 
 ### Instructors and Office Hours
 * Instructor: Dr. Jiayu Zhou
@@ -31,11 +32,11 @@ Assignments will be done in the Codio platform [access in D2L].
   time before it is your turn (especially on days assignments are due). Please 
   consider posing your question on Piazza if able.
 * Helproom Hours:
-  * Monday: Gabe, TBD
+  * Monday: Gabe, 6-8 pm.
   * Tuesday: Yaxin, 4-6 pm. 
-  * Wednesday: Gabe, TBD
-  * Thursday: Jinghan, TBD
-  * Friday: Jinghan, TBD
+  * Wednesday: Gabe, 6-8 pm.
+  * Thursday: Jinghan, 4-6 pm.
+  * Friday: Jinghan, 2-4 pm.
   * Saturday: Yaxin, 4-6 pm. 
 
 **Note**: **ALL** written communication should be directed though Piazza. 
