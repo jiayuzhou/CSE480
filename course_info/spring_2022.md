@@ -26,18 +26,12 @@ a registration fee of $48.
 ### Instructors and Office Hours
 * Instructor: Dr. Jiayu Zhou
 * TAs: Jinghan, Yaxin, Gabe
-* Helproom Hours on Zoom (https://msu.zoom.us/j/97528925357): 
+* Helproom Hours on Zoom: 
   When you join the Zoom help room, you will be placed in a private breakout room
   and helped in the order you arrived. If there are many students it may take some 
   time before it is your turn (especially on days assignments are due). Please 
   consider posing your question on Piazza if able.
-* Helproom Hours:
-  * Monday: Gabe, 6-8 pm.
-  * Tuesday: Yaxin, 4-6 pm. 
-  * Wednesday: Gabe, 6-8 pm.
-  * Thursday: Jinghan, 4-6 pm.
-  * Friday: Jinghan, 2-4 pm.
-  * Saturday: Yaxin, 4-6 pm. 
+* Helproom Links and Hours: check D2L. 
 
 **Note**: **ALL** written communication should be directed though Piazza. 
 You can send private messages or public posts depending on your preference. 
