@@ -124,6 +124,20 @@ and will cover all of the material to that point. It will be worth 300 points
 the actual exam that will closely resemble it so that you know exactly what to expect. 
 There will be no final exam.
 
+### Honors Option
+
+To earn an Honors experience in CSE 480, a student will be working on a customized database project. 
+To initiate the process, the student should should come up with a database project, write up a description 
+then send to the instructor for comments and approval. The description also had to include a schedule for 
+completing the project. At the end of the semester (the final week), the student needed to provide a final report and do a 
+demonstration of their project. The final report needs to include a database relationship diagram, 
+a description of each of the tables, and a discussion of the challenges they faced while completing the project.
+
+A summary of deliverables:
+* Project description (introduction, schedule, references; discuss with and approve by instructor). 
+* Final report (due final week, database relationship diagram, description of each of the tables, challenges faced).
+* Presentation/demonstration (schedule with instructor).
+
 ### The Spartan Code of Honor Academic Pledge
 
 > As a Spartan, I will strive to uphold values of the highest ethical standard. 
